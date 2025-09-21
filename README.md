@@ -10,7 +10,7 @@
 ## Key Vocab
 
 - **Full-Stack Development**: development of a frontend and a backend for an
-  application. True full-stack development includes a database, a logic/server
+  ..application. True full-stack development includes a database, a logic/server
   layer, and a frontend built in JavaScript, HTML, and CSS.
 - **Backend**: the layer of a full-stack application that handles business logic
   and other programmatic tasks that users do not or should not see. Can be
